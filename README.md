@@ -1,4 +1,4 @@
-# Tak Management App
+# Task Management App
 
 A new Flutter project.
 
