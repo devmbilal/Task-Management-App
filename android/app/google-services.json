@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "872328902883",
+    "firebase_url": "https://devbilal-to-do-app-default-rtdb.firebaseio.com",
+    "project_id": "devbilal-to-do-app",
+    "storage_bucket": "devbilal-to-do-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872328902883:android:032d6f598038ec6464edd6",
+        "android_client_info": {
+          "package_name": "com.example.task_management_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872328902883-k53gjtnjmft6b2pflhqbni9qrrhqe3b0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA93K6N_LBkE09E7vt6-UML27VF3Chtwtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872328902883-k53gjtnjmft6b2pflhqbni9qrrhqe3b0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "872328902883-ds25jd4t9mslausfbelrbqcrspn6j99b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.toDoApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
